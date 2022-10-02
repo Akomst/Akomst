@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋 and welcome, I'm Olatunji</h1>
-<h3 align="center">A passionate entry level data scientist and analyst. I'm happy to take up the next challenge and advance my budding career.</h3>
+<h3 align="center">A passionate data scientist and analyst. I'm excited to take on the next challenge and advance my promising career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akomst&label=Profile%20views&color=0e75b6&style=flat" alt="akomst" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akomst" alt="akomst" /></a> </p>
 
-- 🔭 I’m currently working on **making the best possible transition from full time teaching to working with data.**
+- 🔭 I'm currently making the transition from full-time teaching to working with data as smoothly as possible.
 
-- 🌱 I'm currently learning **data science oriented platforms that builds my skill sets**
+- 🌱 I'm presently building my skill sets through studying how to use data science tools on learning platforms.
 
-- 👯 I’m looking to collaborate on **projects that makes real life impacts**
+- 👯 I'm looking to work with you on projects that have real-world effects.
 
-- 🤝 I’m also looking for help with **resources to horn in my skills for a smoother transition**
+- 🤝 -I'm also looking for support with **resources to hone in my skills for a more seamless transition**.
 
 - 📝 I regularly write education blog posts on [Akomst](akomst.blogspot.com)
 
